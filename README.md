@@ -1,6 +1,16 @@
 # Hi there, I'm Victor 👋
 
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+## About Me!
+
+- 👨 I’m Bachelor's degree in Electronic Engineering.
+- 🌱 I’m currently software developer fullstack.
+
+## My projects
+- Basic app with Vue.js [coin exchange](https://torvic-exchange.netlify.app/coin/bitcoin).
+- My linkedin [torvic](linkedin.com/in/victor-salcedo-turpo-3171ab12a).
+
 
 ## Tech & Tools Preference
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Django-4DB33D?style=flat&logo=django&logoColor=FFFFFF"> 
